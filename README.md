@@ -27,3 +27,14 @@ To run the simulation and model training locally:
 2. Run the main script:
    ```bash
    python ising_ml_classification.py
+(Note: Data generation via Monte Carlo steps might take a few minutes depending on your CPU due to the multiprocessing pool).
+
+Results & Discussion
+For detailed mathematical theory, loss curves, confusion matrices, and the complete comparative analysis of how noise impacts different algorithms, please refer to the included 2650 final report.pdf.
+
+Authors
+Yilun Chen
+
+Shuzhe Li
+
+This project was completed for the PHY 2650 Computational Physics and AI Tools course at CUHK-Shenzhen.
