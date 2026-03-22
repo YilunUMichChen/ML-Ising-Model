@@ -1,7 +1,7 @@
 """
 =============================================================================
 Project: 2D Ising Model Phase Transition Classification via Machine Learning
-Author: [Your Name/GitHub Handle]
+Author: Alan Chen, Shuzhe Li
 Description:
     This script simulates the 2D Ising model using the Monte Carlo 
     (Metropolis-Hastings) algorithm. It generates lattice spin configurations 
