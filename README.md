@@ -34,7 +34,6 @@ To run the simulation and model training locally:
 For detailed mathematical theory, loss curves, confusion matrices, and the complete comparative analysis of how noise impacts different algorithms, please refer to the included **`2650 final report.pdf`**.
 
 ## Authors
-- Yilun Chen
+- Alan (Yilun) Chen
 - Shuzhe Li
 
-*This project was completed for the PHY 2650 Computational Physics and AI Tools course at CUHK-Shenzhen.*
