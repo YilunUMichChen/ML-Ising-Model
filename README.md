@@ -1,7 +1,7 @@
 # Machine Learning Classification of Magnetic Phases in the Ising Model
 
 ## Overview
-This repository contains the computational physics project analyzing magnetic phase transitions in the 2D Ising Model using various machine learning techniques. We generated spin configurations using Markov Chain Monte Carlo (MCMC) with the Metropolis-Hastings algorithm and applied deep learning and traditional machine learning models to classify the physical phases (Ferromagnetic vs. Paramagnetic).
+This repository contains the computational physics project analyzing magnetic phase transitions in the 2D Ising Model using various machine learning techniques. We generated spin configurations using Markov Chain Monte Carlo (MCMC) with the Metropolis-Hastings algorithm and applied deep learning and traditional machine learning models to classify the physical phases (ordered phase T < Tc, disordered phase T > Tc, where Tc is the critical temparature).
 
 ## Key Features
 - **Data Generation:** Simulated 2D Ising model spin configurations across different temperatures using multiprocessing for computational efficiency.
